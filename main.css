@@ -205,7 +205,7 @@ p {
   transition: var(--transition);
   cursor: pointer;
   /* animation */
-  animation: bounce 1s ease infinite;
+  animation: bounce 1.5s ease infinite;
 }
 .navbar {
   position: fixed;
